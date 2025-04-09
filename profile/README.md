@@ -9,3 +9,6 @@ You can checked this organizations repo, is fun
 
 #### - [Cruese Engine](https://github.com/JoaTH-Team/Cruese-Engine)
 > A currently working on game engine, is a game engine that able to allowed making a complety game using script only, engine were OG made by Huy1234TH
+
+## Discord Server
+We have discord server, [join here!](https://discord.gg/VXS98ACq)
