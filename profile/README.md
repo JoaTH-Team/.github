@@ -7,8 +7,9 @@ You can checked this organizations repo, is fun
 #### - [Rhythmo](https://github.com/JoaTH-Team/Rhythmo-SC)
 > A simple rhythm OG made by Joalor64GH, is a in development game!
 
-#### - [Cruese Engine](https://github.com/JoaTH-Team/Cruese-Engine)
+#### - [Quick Engine](https://github.com/JoaTH-Team/Quick-Engine)
 > A currently working on game engine, is a game engine that able to allowed making a complety game using script only, engine were OG made by Huy1234TH
 
-## Discord Server
-We have discord server, [join here!](https://discord.gg/VXS98ACq)
+### Repo are not working for long time:
+#### [Cruese Engine](https://github.com/JoaTH-Team/Cruese-Engine)
+> A not working for long time game engine, a game engine that able to allowed making a complety game using script only, engine was OG made by Huy1234TH
