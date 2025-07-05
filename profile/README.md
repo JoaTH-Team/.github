@@ -5,7 +5,10 @@ You can checked this organizations repo, is fun
 
 ### Repo are worked on:
 #### - [Rhythmo](https://github.com/JoaTH-Team/Rhythmo-SC)
-> A simple rhythm OG made by Joalor64GH, is a in development game!
+> A simple rhythm OG made by Joalor64GH, also allows modding!
+
+#### - [Journey Through Aubekhia](https://github.com/JoaTH-Team/JTA)
+> A simple platformer game, currently in development!
 
 #### - [Quick Engine](https://github.com/JoaTH-Team/Quick-Engine)
 > A currently working on game engine, is a game engine that able to allowed making a complety game using script only, engine were OG made by Huy1234TH
