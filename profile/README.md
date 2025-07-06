@@ -10,6 +10,9 @@ You can checked this organizations repo, is fun
 #### - [Journey Through Aubekhia](https://github.com/JoaTH-Team/JTA)
 > A simple platformer game, currently in development!
 
+#### - [Space VS Evil Space](https://github.com/JoaTH-Team/space-vs-evil-space)
+> Simple but maybe funni shoot 'em right enemy thought space
+
 #### - [Quick Engine](https://github.com/JoaTH-Team/Quick-Engine)
 > A currently working on game engine, is a game engine that able to allowed making a complety game using script only, engine were OG made by Huy1234TH
 
