@@ -13,7 +13,7 @@ This is an organization created by [Joalor64GH](https://github.com/Joalor64GH). 
 
 ### Project are Hiatus:
 #### - [Quick Engine](https://github.com/JoaTH-Team/Quick-Engine)
-> A currently working on game engine, is a game engine that able to allowed making a complety game using script only, engine were OG made by Huy1234TH
+> A not working on game engine, is a game engine that able to allowed making a complety game using script only, engine were OG made by Huy1234TH
 
 #### [Cruese Engine](https://github.com/JoaTH-Team/Cruese-Engine)
 > A not working for long time game engine, a game engine that able to allowed making a complety game using script only, engine was OG made by Huy1234TH
