@@ -13,4 +13,4 @@ This is an organization created by [Joalor64GH](https://github.com/Joalor64GH). 
 
 ### Project are Hiatus:
 #### - [Pop Engine](https://github.com/JoaTH-Team/Pop-Engine)
-> A cool scripted game engine
+> Was a cool scripted game engine
